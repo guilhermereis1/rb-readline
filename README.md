@@ -7,9 +7,9 @@ of the standard library.
 ## Installation
 
     gem install rb-readline
-  
+
 Or in a `Gemfile`:
-  
+
     gem 'rb-readline'
 
 ## Synopsis
@@ -72,10 +72,8 @@ interface that's probably more comfortable to Ruby programmer. It has certain
 features that Readline does not. In addition, it provides a Readline
 compatibility mode.
 
-## Authors
+Guilherme Reis
 
-* Park Heesob (C translation, code donated as part of bounty)
-* Daniel Berger (Documentation and testing)
-* Luis Lavena
-* Mark Somerville (Maintainer)
-* Connor Atherton (Maintainer)
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
